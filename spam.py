@@ -212,12 +212,12 @@ def logo():
 	auth=m+'  Author : '+k+'./kitsune'
 	# jika ingin m3namambah kan variabel dan mengubah data variabel kitsune bisa menambahkan %s menambahkan variabel terus di ubah menjjadu string, %d = mengubah data menjadi decimal , %i = mengubah data menjadi integer
 	return '''
-%s╭━┳━╭━╭━╮%s╮╲╲╲╲╲╲%s╔═╗╔═╗╔═╗╔╦╗
-%s┃┈┈┈┣▅╋▅┫┃%s╲╲╲╲╲╲%s╚═╗╠═╝╠═╣║║║
-%s┃┈┃┈╰━╰━━━━━━╮%s╲╲%s╚═╝╩  ╩ ╩╩ ╩
-%s╰┳╯┈┈┈┈┈┈┈┈┈◢▉◣%s╲%s╔═╗╔╦╗╔═╗
-%s╲┃┈┈┈┈┈┈┈┈┈┈▉▉▉%s╲%s╚═╗║║║╚═╗
-%s╲┃┈┈┈┈┈┈┈┈┈┈◥▉◤%s╲%s╚═╝╩ ╩╚═╝
+%s╭━┳━╭━╭━╮%s╮╲╲╲╲╲╲%s Recoder by Rexure
+%s┃┈┈┈┣▅╋▅┫┃%s╲╲╲╲╲╲%s sorry for recoder
+%s┃┈┃┈╰━╰━━━━━━╮%s╲╲%s YT Channel : Rexure MLBB
+%s╰┳╯┈┈┈┈┈┈┈┈┈◢▉◣%s╲%s WhatsApp : 0819 0506 4290
+%s╲┃┈┈┈┈┈┈┈┈┈┈▉▉▉%s╲%s Discord : NightSG#9450
+%s╲┃┈┈┈┈┈┈┈┈┈┈◥▉◤%s╲%s Recoder by Rexure Gimang
 %s╲┃┈┈┈┈╭━┳━━━━╯%s╲╲%s╦ ╦╦ ╦╔═╗╔╦╗╔═╗╔═╗╔═╗╔═╗
 %s╲┣━━━━━━┫%s╲╲╲╲╲╲╲%s║║║╠═╣╠═╣ ║ ╚═╗╠═╣╠═╝╠═╝
 %s╲┃┈┈┈┈┈┈┃%s╲╲╲╲╲╲╲%s╚╩╝╩ ╩╩ ╩ ╩ ╚═╝╩ ╩╩  ╩  
